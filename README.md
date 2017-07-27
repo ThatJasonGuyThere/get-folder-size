@@ -1,1 +1,3 @@
 # get-folder-size
+
+Returns folder size in gigabytes. Haven't figured out why some folders can't be opened...
